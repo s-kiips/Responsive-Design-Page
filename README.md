@@ -1,3 +1,3 @@
 # Responsive-Design-Page
-Attractive Webpage Design By Sudin Ranjitkar
+Attractive Webpage Designed By Sudin Ranjitkar
 Star if you love it Thank you :D
